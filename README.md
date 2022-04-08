@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Yubo-Cao
-- 🌱 I’m currently learning java -- and I am just a learner.
+- 🌱 I’m currently learning algorithms.
